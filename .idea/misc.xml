@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/4_ProgrammingAndroid/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/4_ProgrammingAndroid/RecyclerView/app/src/main/res/layout/item_cardview_hero.xml" value="0.21" />
         <entry key="..\:/4_ProgrammingAndroid/RecyclerView/app/src/main/res/layout/item_grid_hero.xml" value="0.10740740740740741" />
         <entry key="..\:/4_ProgrammingAndroid/RecyclerView/app/src/main/res/layout/item_row_hero.xml" value="0.22" />
         <entry key="..\:/4_ProgrammingAndroid/RecyclerView/app/src/main/res/menu/menu_main.xml" value="0.25" />
