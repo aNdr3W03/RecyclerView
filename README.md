@@ -12,3 +12,7 @@ Android Kotlin Test Project - Recycler View
 > **Update 3 - Card Layout** 
 > 
 > <img src="screenshot/RecyclerView-Card.gif" alt="Screenshot" title="Screenshot" width="360" height="auto">
+
+> **Update 4 - Item OnClickListener** 
+> 
+> <img src="screenshot/RecyclerView-ItemOnClickListener.gif" alt="Screenshot" title="Screenshot" width="360" height="auto">
