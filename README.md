@@ -8,3 +8,7 @@ Android Kotlin Test Project - Recycler View
 > **Update 2 - Grid Layout** 
 > 
 > <img src="screenshot/RecyclerView-Grid.gif" alt="Screenshot" title="Screenshot" width="360" height="auto">
+
+> **Update 3 - Card Layout** 
+> 
+> <img src="screenshot/RecyclerView-Card.gif" alt="Screenshot" title="Screenshot" width="360" height="auto">
